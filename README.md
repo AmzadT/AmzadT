@@ -3,13 +3,13 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/rahim-ansari-43861922b">
+  <a href="https://www.linkedin.com/in/amzad-hussain-5b8ab4287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://rahim-ansari-masai.netlify.app/">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1RX5qWapl0ck053gqaIC78acOrN4ZNG7C/view">
+  <a href="#">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -25,7 +25,7 @@
 ### :woman_technologist: About Me :
 
 ### Hi there 👋
-* 👂 My name is Rahim Ansari,
+* 👂 My name is Amzad Hussain,
 * 🌱 I’m currently learning _Full Stack Software Development_ from _Masai School_,
 * 🤝 Collaborating on projects with other developers,
 * 💬 Ask me about software development,
