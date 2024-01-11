@@ -1,6 +1,5 @@
 <div id="header" align="center">
-  <img src="![image](https://github.com/AmzadT/AmzadT/assets/143213332/0dd01507-5903-4b14-acda-793c60d712f6)
-" borderRadius="50%" width="250"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwifi6_L89SDAxWnTWwGHY_zBqoQMygBegQIARB2..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&docid=yw3WajrVF6gxGM&w=480&h=360&q=animated%20coding%20gif&ved=2ahUKEwifi6_L89SDAxWnTWwGHY_zBqoQMygBegQIARB2" borderRadius="50%" width="250"/>
 </div>
 
 <div id="badges" align="center">
