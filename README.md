@@ -94,8 +94,7 @@ Tools:
 
 <div id="badges">
   <div>
- <a
-href="#">
+ <a href="#">
     <img src="https://img.shields.io/badge/Facebook.com-white?style=for-the-badge&logo=NA&logoColor=black" alt="FB Badge"/>
   </a> </div>
   <div>  
