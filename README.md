@@ -21,7 +21,8 @@
   I'm Amzad hussain                                                                                   
 </h1><h2 align="center">Full stack software developer
 
-</h2>                                                                                 
+</h2>
+<h3>i'm a passionate Full Stack Web Developer skilled in MERN Stack who likes to do experiments and always ready for learning new things. I focuses my writting clean, eligent and efficient code.</h3>
 
 ### :woman_technologist: About Me :
 
@@ -33,6 +34,12 @@
 * 📫 Get more about me:  <a href="#" target="_blank"> here</a> is my portfolio,
 * ❤️ I love coding,
 * ⚡ Fun fact: Still finding...
+*  I'm based in Siwan Bihar, India
+*  Some Technologies that I love working with include MERN Stack, TypeScript, and Python. 
+*   I have learned a couple of CSS libraries Like:- Chakra UI, BootsTrap, Tailwind CSS, Material UI & Styled components.
+*   My intrest includes:- Coding, Hacking, New Technologies and Nature.
+*   Email:- <a href""></a>
+*   Portfolio:-  <a href""></a>
 
 <hr />
 
