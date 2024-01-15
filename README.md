@@ -22,9 +22,11 @@
 </h1><h2 align="center">Full stack software developer
 
 </h2>
-<h3>i'm a passionate Full Stack Web Developer skilled in MERN Stack who likes to do experiments and always ready for learning new things. I focuses my writting clean, eligent and efficient code.</h3>
+<h3> I'm a passionate Full Stack Web Developer skilled in MERN Stack who likes to do experiments and is always ready to learn new things. I focus my writing on clean, elegant, and efficient code.</h3>
 
-### :woman_technologist: About Me :
+<hr />
+
+### :woman_technologist: About Me :-
 
 ### Hi there 👋
 * 👂 My name is **Amzad Hussain**,
