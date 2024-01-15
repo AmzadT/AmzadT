@@ -33,7 +33,8 @@
 * 💬 Ask me about software development,
 * 📫 Get more about me:  <a href="#" target="_blank"> here</a> is my portfolio,
 * ❤️ I love coding,
-* ⚡ Fun fact: Still finding...
+* ⚡ Fun fact: Still finding.....
+* 
 *  I'm based in Siwan Bihar, India
 *  Some Technologies that I love working with include MERN Stack, TypeScript, and Python. 
 *   I have learned a couple of CSS libraries Like:- Chakra UI, BootsTrap, Tailwind CSS, Material UI & Styled components.
