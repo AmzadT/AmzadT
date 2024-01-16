@@ -19,10 +19,9 @@
   Hello
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Amzad hussain                                                                                   
-</h1><h2 align="center">Full stack software developer
-
-</h2>
-<h3> I'm a passionate Full Stack Web Developer skilled in MERN Stack who likes to do experiments and is always ready to learn new things. I focus my writing on clean, elegant, and efficient code.</h3>
+</h1>
+<h2 align="center">Full stack software developer</h2>
+<h4> I'm a passionate Full Stack Web Developer skilled in MERN Stack who likes to do experiments and is always ready to learn new things. I focus my writing on clean, elegant, and efficient code.</h4>
 
 <hr />
 
