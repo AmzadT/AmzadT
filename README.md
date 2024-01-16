@@ -41,8 +41,6 @@
 *  Some Technologies that I love working with include MERN Stack, TypeScript, and Python. 
 *   I have learned a couple of CSS libraries Like:- Chakra UI, Bootstrap, Tailwind CSS, Material UI & Styled components.
 *   My interests include:- Coding, Hacking, New Technologies, and Nature.
-*   Email:- <a href""></a>
-*   Portfolio:-  <a href"file:///C:/MASAI%20SCHOOL/MY-PORTFOLIO/My-Portfolio/index.html"></a>
 
 <hr />
 
