@@ -121,10 +121,10 @@
     <tr>
       <td align="center" style="list-style-type:circle;">
         <ul type="square" style="display: inline-block; text-align: left;">
-          <li>English : Native Proficiency</li>
-          <li>Hindi : Native Proficiency</li>
-          <li>Bhojpuri : Native Proficiency</li>
-          <li>Urdu : Read and Write</li>
+          <li>English  :  Native Proficiency</li>
+          <li>Hindi  :  Native Proficiency</li>
+          <li>Bhojpuri  :  Native Proficiency</li>
+          <li>Urdu  :  Read and Write</li>
         </ul>
       </td>
     </tr>
