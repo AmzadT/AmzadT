@@ -28,11 +28,35 @@
   I'm a passionate Full Stack Web Developer skilled in the MERN Stack, always eager to learn and experiment with new technologies. I focus on writing clean, efficient, and maintainable code.
 </p>
 
-<hr />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
+</div>
 
 <div align="center">
-  
+  <img src="https://camo.githubusercontent.com/68a35fb552570e8f1e02c817b4e5c031fd34fb26ca9f2dfb272184b6f739aeee/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b" width="100%" alt="Profile Details"/>
 </div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/3d3dcfe35c9c5cd0bcecbb21e0771107a9d2534abe5efa22d114795573de6485/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f7265706f732d7065722d6c616e67756167653f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b" width="100%" alt="Repositories Per Language"/>
+</div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/6282d19e54d601cde912435577ca508e46b986cd6379893bf32cf51bfdd3c854/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f6d6f73742d636f6d6d69742d6c616e67756167653f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b" width="100%" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/bb85d9c6701974225674f96f980c1474a787b2fc067b729ce74cf379578f5f72/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f73746174733f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b" width="100%" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/265dcc741a62fa6931d2f2ed3cb2748caa3fb0e755e50b739e734680fc54e016/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f647563746976652d74696d653f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b267574634f66667365743d38" width="100%" alt="Productive Time"/>
+</div>
+
+<div align="center">
+  <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="100%" alt="GitHub Summary"/>
+</div>
+
+<hr />
 
 ## 👨‍💻 About Me
 
@@ -43,6 +67,10 @@
 - 🌐 Check out my [Portfolio](#) to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
 - ⚡ Fun fact: Still finding...
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
+</div>
 
 ## 🛠 Technologies & Tools
 
@@ -60,53 +88,22 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-## 🌐 Languages
+<hr />
 
-<ul>
-  <li>English: Native proficiency</li>
-  <li>Hindi: Native proficiency</li>
-  <li>Urdu: Read and write</li>
-  <li>Bhojpuri: Native proficiency</li>
-</ul>
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmzadT&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="400"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="400"/>
-  <br/><br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
-  <img src="https://camo.githubusercontent.com/68a35fb552570e8f1e02c817b4e5c031fd34fb26ca9f2dfb272184b6f739aeee/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=dark" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=dark" alt="GitHub Stats"/>
 </div>
-
-
-## 🔥 Featured Projects
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project2-TodoApp-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project3-DragAndDrop-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</p>
