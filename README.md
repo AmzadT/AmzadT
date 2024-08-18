@@ -111,17 +111,17 @@
 </p>
 <br/>
 
- <h2 align="center">🌐 Languages 👇</h2>
-
-<br/>
-<p align="center">
-  <ul>
+ <h2 align="center">🌐 Languages 👇
+   <ul>
   <li>English: Native proficiency</li>
   <li>Hindi: Native proficiency</li>
   <li>Urdu: Read and write</li>
   <li>Bhojpuri: Native proficiency</li>
 </ul>
-</p>
+ </h2>
+
+<br/>
+  
 
 <br/><br/>
 <div align="center">
