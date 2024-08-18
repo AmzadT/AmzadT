@@ -49,6 +49,7 @@
 - 🌐 Check out my [Portfolio](#) to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
 - ⚡ Fun fact: Still finding...
+- ⚙️ Hobbies: Coding, Carrom, and Search new Technologies.
 
 ## 🛠 Technologies & Tools 👇
 
@@ -69,17 +70,33 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
+
 </p>
 
 ### Tools & Platforms 👇
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Thunder%20Client-3B3A3A?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client"/>
+  <img src="https://img.shields.io/badge/Replit-000000?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/>
+  <img src="https://img.shields.io/badge/Render-7F56D9?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
+  <img src="https://img.shields.io/badge/CodeSandbox-F7DF1E?style=for-the-badge&logo=codesandbox&logoColor=black" alt="CodeSandbox"/>
+  <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
+  <img src="https://img.shields.io/badge/Chat%20GPT-1E1E1E?style=for-the-badge&logo=openai&logoColor=white" alt="Chat GPT"/>
+  <img src="https://img.shields.io/badge/CodePen-FCBE04?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen"/>
+  <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Font Awesome"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Fake%20Store%20API-FF5722?style=for-the-badge&logo=api&logoColor=white" alt="Fake Store API"/>
+  <img src="https://img.shields.io/badge/OMDB%20API-FF5C5C?style=for-the-badge&logo=api&logoColor=white" alt="OMDB API"/>
+  <img src="https://img.shields.io/badge/Weather%20API-00A9A5?style=for-the-badge&logo=api&logoColor=white" alt="Weather API"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+</p>
 </p>
 
 ## 🌐 Languages 👇
@@ -105,7 +122,7 @@
 
 ## 🔥 Featured Projects 👇
 
-<p>
+<p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Project2-TodoApp-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Project3-DragAndDrop-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
