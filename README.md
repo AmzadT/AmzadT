@@ -110,14 +110,14 @@
 </p>
 <br/>
 ## 🌐 Languages 👇
-
+<br/>
 <ul>
   <li>English: Native proficiency</li>
   <li>Hindi: Native proficiency</li>
   <li>Urdu: Read and write</li>
   <li>Bhojpuri: Native proficiency</li>
 </ul>
-<br/>
+<br/><br/>
 ## 📊 GitHub Stats 👇
 
 <div align="center">
