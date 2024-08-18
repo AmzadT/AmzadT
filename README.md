@@ -120,7 +120,7 @@
   <table>
     <tr>
       <td align="center" style="list-style-type:circle;">
-        <ul type="circle" style="display: inline-block; text-align: left;">
+        <ul type="square" style="display: inline-block; text-align: left;">
           <li>English: Native proficiency</li>
           <li>Hindi: Native proficiency</li>
           <li>Bhojpuri: Native proficiency</li>
