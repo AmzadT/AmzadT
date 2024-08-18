@@ -116,10 +116,10 @@
 
 
    <ul align="center" type="circle">
-  <li>English: Native proficiency</li>
-  <li>Hindi: Native proficiency</li>
-  <li>Urdu: Read and write</li>
-  <li>Bhojpuri: Native proficiency</li>
+  <li align="center">English: Native proficiency</li>
+  <li align="center">Hindi: Native proficiency</li>
+  <li align="center">Urdu: Read and write</li>
+  <li align="center">Bhojpuri: Native proficiency</li>
 </ul>
 
 
