@@ -50,7 +50,7 @@
 - ❤️ I love coding and building projects that solve real-world problems.
 - ⚡ Fun fact: Still finding...
 - ⚙️ Hobbies: Coding, Carrom, and Search new Technologies.
-
+<br/>
 ## 🛠 Technologies & Tools 👇
 
 <div align="center">
