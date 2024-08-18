@@ -23,13 +23,13 @@
 </div>
 
 <h1 align="center">
-  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Amzad Hussain
+  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Amzad Hussain 😎
 </h1>
 
-<h3 align="center">Full Stack Software Developer</h3>
+<h3 align="center">👉 Full Stack Software Developer 😉</h3>
 
 <p align="center">
-  I'm a passionate Full Stack Web Developer skilled in the MERN Stack, always eager to learn and experiment with new technologies. I focus on writing clean, efficient, and maintainable code.
+  👉 I'm a passionate Full Stack Web Developer skilled in the MERN Stack, always eager to learn and experiment with new technologies. I focus on writing clean, efficient, and maintainable code...
 </p>
 
 <div align="center">
@@ -40,7 +40,7 @@
   <img src="https://camo.githubusercontent.com/410692453565c8609eea9618bfafcfd200288a6dab6d8a23b8205251173b525a/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a4f785437556a4977686b6c4b453864385346796f37672e676966" width="800"/>
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 👇
 
 - 🌱 I’m currently learning _Full Stack Software Development_ at _Masai School_.
 - 🤝 I enjoy collaborating on projects and learning from other developers.
@@ -50,20 +50,20 @@
 - ❤️ I love coding and building projects that solve real-world problems.
 - ⚡ Fun fact: Still finding...
 
-## 🛠 Technologies & Tools
+## 🛠 Technologies & Tools 👇
 
 <div align="center">
   <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="30%" alt="GitHub Summary"/>
 </div>
 
-### Programming Languages
+### Programming Languages 👇
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 
-### Frameworks & Libraries
+### Frameworks & Libraries 👇
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -73,7 +73,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
-### Tools & Platforms
+### Tools & Platforms 👇
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
-## 🌐 Languages
+## 🌐 Languages 👇
 
 <ul>
   <li>English: Native proficiency</li>
@@ -91,7 +91,7 @@
   <li>Bhojpuri: Native proficiency</li>
 </ul>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 👇
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AmzadT&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
@@ -103,7 +103,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
 </div>
 
-## 🔥 Featured Projects
+## 🔥 Featured Projects 👇
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
