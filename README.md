@@ -126,18 +126,22 @@
 
 
 <div align="center">
+  <!-- Profile Details -->
   <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=github_dark" width="100%" alt="Profile Details"/>
 </div>
 
 <div align="center">
+  <!-- Repositories Per Language -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=github_dark" width="100%" alt="Repositories Per Language"/>
 </div>
 
 <div align="center">
+  <!-- Most Commit Language -->
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmzadT&repo=your-repo-name&theme=github_dark" width="100%" alt="Pinned Repositories"/>
 </div>
 
 <div align="center">
+  <!-- Productive Time -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="100%" alt="Streak Stats"/>
 </div>
 
