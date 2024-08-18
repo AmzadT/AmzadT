@@ -100,16 +100,16 @@
 </div>
 
 ## 🔥 Featured Projects
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
-</div>
+
 <p>
   <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Project2-TodoApp-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Project3-DragAndDrop-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
