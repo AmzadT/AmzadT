@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400px" style="border-radius:10%;"/>
 </div>
-
+<br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amzad-hussain-5b8ab4287/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,7 +31,7 @@
 <p align="center">
   👉 I'm a passionate Full Stack Web Developer skilled in the MERN Stack, always eager to learn and experiment with new technologies. I focus on writing clean, efficient, and maintainable code...
 </p>
-
+<br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
 </div>
