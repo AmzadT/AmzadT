@@ -115,12 +115,20 @@
 <br/>
 
 
-   <ul align="center" type="circle">
-  <li align="center">English: Native proficiency</li>
-  <li align="center">Hindi: Native proficiency</li>
-  <li align="center">Urdu: Read and write</li>
-  <li align="center">Bhojpuri: Native proficiency</li>
-</ul>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="list-style-type:circle;">
+        <ul type="circle" style="display: inline-block; text-align: left;">
+          <li>English: Native proficiency</li>
+          <li>Hindi: Native proficiency</li>
+          <li>Urdu: Read and write</li>
+          <li>Bhojpuri: Native proficiency</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <br/>
