@@ -27,11 +27,17 @@
 </h1>
 
 
+
+
+
 <div align="center">
-  <marquee behavior="alternate" direction="left" scrollamount="5" width="50%">
-    I am Amzad Hussain
-  </marquee>
+  <img src="https://media.giphy.com/media/your-animated-gif-url.gif" alt="Animated text" width="400"/>
 </div>
+
+
+
+
+
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
