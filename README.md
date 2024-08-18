@@ -118,7 +118,7 @@
   <li>Bhojpuri: Native proficiency</li>
 </ul>
 <br/><br/>
-## 📊 GitHub Stats 👇
+## <h3>📊 GitHub Stats 👇</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="60%" alt="Streak Stats"/>
