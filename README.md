@@ -91,7 +91,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="400"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
+  <img src="https://camo.githubusercontent.com/68a35fb552570e8f1e02c817b4e5c031fd34fb26ca9f2dfb272184b6f739aeee/687474703a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d4e697368757453756d616e267468656d653d6769746875625f6461726b"/>
 </div>
+
 
 ## 🔥 Featured Projects
 
