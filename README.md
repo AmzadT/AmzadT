@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Advanced%20JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Advanced JavaScript"/>
 <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MERN Stack" />
 </p>
-<br/><br/>
+<br/>
 ### 🔃 Frameworks & Libraries 👇
 <p align="center">
   
@@ -108,7 +108,7 @@
 
 
 </p>
-
+<br/>
 ## 🌐 Languages 👇
 
 <ul>
@@ -117,9 +117,8 @@
   <li>Urdu: Read and write</li>
   <li>Bhojpuri: Native proficiency</li>
 </ul>
-
+<br/>
 ## 📊 GitHub Stats 👇
-
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="60%" alt="Streak Stats"/>
