@@ -121,41 +121,16 @@
 ## 📊 GitHub Stats 👇
 
 
-
-
-
-
 <div align="center">
-  <!-- Profile Details -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=github_dark" width="50%" alt="Profile Details"/>
-</div>
-
-<div align="center">
-  <!-- Repositories Per Language -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=github_dark" width="50%" alt="Repositories Per Language"/>
-</div>
-
-
-<div align="center">
-  <!-- Productive Time -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="50%" alt="Streak Stats"/>
-</div>
-
-
-
-
-
-
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AmzadT&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="50%"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="50%"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
 </div>
+
 
 ## 🔥 Featured Projects 👇
 
