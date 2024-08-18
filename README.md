@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MERN Stack" />
 </p>
 <br/>
-### 🔃 Frameworks & Libraries 👇
+ <h3>🔃 Frameworks & Libraries 👇</h3>
 <p align="center">
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -82,7 +82,7 @@
   
 </p>
 <br/>
-### 🪟 Tools & Platforms 👇
+ <h3>🪟 Tools & Platforms 👇</h3>
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
@@ -109,16 +109,16 @@
 
 </p>
 <br/>
-## 🌐 Languages 👇
+ <h3 align="center">🌐 Languages 👇</h3>
 <br/>
-<ul>
+<ul align="center">
   <li>English: Native proficiency</li>
   <li>Hindi: Native proficiency</li>
   <li>Urdu: Read and write</li>
   <li>Bhojpuri: Native proficiency</li>
 </ul>
 <br/><br/>
-## <h3>📊 GitHub Stats 👇</h3>
+<h3 align="center">📊 GitHub Stats 👇</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="60%" alt="Streak Stats"/>
@@ -131,7 +131,7 @@
 </div>
 
 
-## 🔥 Featured Projects 👇
+🔥 Featured Projects 👇
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
