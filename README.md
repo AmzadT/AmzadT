@@ -53,7 +53,7 @@
 
 ## 🛠 Technologies & Tools 👇
 
-<div align="center" style="border: 2px solid #000; padding: 10px; border-radius: 5px; text-align: center;">
+<div align="center">
   <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="30%" alt="GitHub Summary"/>
 </div>
 
