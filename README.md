@@ -51,11 +51,11 @@
 - ⚡ Fun fact: Still finding...
 - ⚙️ Hobbies: Coding, Carrom, and Search new Technologies.
 <br/>
+
+ <h2>🛠 Technologies & Tools 👇</h2>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
 </div>
- <h2>🛠 Technologies & Tools 👇</h2>
-
 <div align="center">
   <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="30%" alt="GitHub Summary"/>
 </div>
@@ -114,10 +114,11 @@
 
 </p>
 <br/>
-<div align="center">
+
+ <h2 align="center">🌐 Languages 👇</h2>
+ <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
 </div>
- <h2 align="center">🌐 Languages 👇</h2>
 <br/>
 <ul align="center">
   <li>English: Native proficiency</li>
