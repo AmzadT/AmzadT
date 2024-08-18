@@ -114,12 +114,15 @@
  <h2 align="center">🌐 Languages 👇</h2>
 
 <br/>
-<ul align="center">
+<p align="center">
+  <ul>
   <li>English: Native proficiency</li>
   <li>Hindi: Native proficiency</li>
   <li>Urdu: Read and write</li>
   <li>Bhojpuri: Native proficiency</li>
 </ul>
+</p>
+
 <br/><br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
