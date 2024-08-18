@@ -57,7 +57,7 @@
   <img src="https://camo.githubusercontent.com/d2ff3eb4e300b4366924419b7894d9fc33842e563f08c74f24eae4b193a4f07e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="30%" alt="GitHub Summary"/>
 </div>
 
-### Programming Languages 👇
+### ❄️ Programming Languages 👇
 <p>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
@@ -66,7 +66,7 @@
 <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MERN Stack" />
 </p>
 
-### Frameworks & Libraries 👇
+### 🔃 Frameworks & Libraries 👇
 <p align="center">
   
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
@@ -82,7 +82,7 @@
   
 </p>
 
-### Tools & Platforms 👇
+### 🪟 Tools & Platforms 👇
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
