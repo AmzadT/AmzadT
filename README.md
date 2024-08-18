@@ -27,11 +27,11 @@
 </h1>
 
 
-
 <div align="center">
-  <img src="https://your-gif-url-here.gif" alt="I am Amzad Hussain" height="60px"/>
+  <marquee behavior="alternate" direction="left" scrollamount="5" width="50%">
+    I am Amzad Hussain
+  </marquee>
 </div>
-
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="center">
