@@ -114,7 +114,7 @@
  <h2 align="center">🌐 Languages 👇</h2>
 <br/>
 
-<div align="center">
+<div align="center" width="200" height="300px">
   <table>
     <tr>
       <td align="center" style="list-style-type:circle;">
@@ -130,8 +130,7 @@
 </div>
 
 
-
-<br/><br/>
+<br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
 </div>
