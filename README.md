@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Advanced%20JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Advanced JavaScript"/>
 <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MERN Stack" />
 </p>
-
+<br/><br/>
 ### 🔃 Frameworks & Libraries 👇
 <p align="center">
   
@@ -81,7 +81,7 @@
 
   
 </p>
-
+<br/>
 ### 🪟 Tools & Platforms 👇
 <p>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
