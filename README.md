@@ -27,23 +27,9 @@
 </h1>
 
 
-<div align="center">
-  <svg width="400px" height="60px" viewBox="0 0 400 60" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial" font-size="28" fill="black">
-      <tspan class="text-anim">I am Amzad Hussain</tspan>
-    </text>
-    <style>
-      .text-anim {
-        animation: moveText 2s infinite alternate;
-      }
 
-      @keyframes moveText {
-        0% { fill: black; transform: translateX(-100%); }
-        50% { fill: black; transform: translateX(0%); }
-        100% { fill: black; transform: translateX(100%); opacity: 0; }
-      }
-    </style>
-  </svg>
+<div align="center">
+  <img src="https://your-gif-url-here.gif" alt="I am Amzad Hussain" height="60px"/>
 </div>
 
 <h3 align="center">Full Stack Software Developer</h3>
