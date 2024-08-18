@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Advanced%20JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Advanced JavaScript"/>
-<img src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mern&logoColor=white" alt="MERN" />
+<img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MERN Stack" />
 </p>
 
 ### Frameworks & Libraries 👇
@@ -104,7 +104,6 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
   <img src="https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
   <img src="https://img.shields.io/badge/localStorage-000000?style=for-the-badge&logo=browser&logoColor=white" alt="localStorage"/>
 
 
