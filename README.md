@@ -114,12 +114,15 @@
  <h2 align="center">🌐 Languages 👇</h2>
 <br/>
 
-   <ul align="center" type="circle">
-  <li>English: Native proficiency</li>
-  <li>Hindi: Native proficiency</li>
-  <li>Urdu: Read and write</li>
-  <li>Bhojpuri: Native proficiency</li>
-</ul>
+ <div align="center">
+  <ul type="circle" style="list-style-type: circle;">
+    <li>English: Native proficiency</li>
+    <li>Hindi: Native proficiency</li>
+    <li>Urdu: Read and write</li>
+    <li>Bhojpuri: Native proficiency</li>
+  </ul>
+</div>
+
 
 <br/><br/>
 <div align="center">
