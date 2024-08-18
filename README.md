@@ -41,7 +41,7 @@
 </div>
 
 <br/> <br/>
-<h2>👨‍💻 About Me 👇</h2>
+<h2>👨‍💻 About Me ! 👇</h2>
 
 - 🌱 I’m currently learning _Full Stack Software Development_ at _Masai School_.
 - 🤝 I enjoy collaborating on projects and learning from other developers.
@@ -121,10 +121,10 @@
     <tr>
       <td align="center" style="list-style-type:circle;">
         <ul type="square" style="display: inline-block; text-align: left;">
-          <li>English: Native proficiency</li>
-          <li>Hindi: Native proficiency</li>
-          <li>Bhojpuri: Native proficiency</li>
-          <li>Urdu: Read and write</li>
+          <li>English : Native Proficiency</li>
+          <li>Hindi : Native Proficiency</li>
+          <li>Bhojpuri : Native Proficiency</li>
+          <li>Urdu : Read and Write</li>
         </ul>
       </td>
     </tr>
