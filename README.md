@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400px" style="border-radius:10%;"/>
 </div>
-<br/>
+<br/> <br/>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amzad-hussain-5a8at9006">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Advanced%20JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Advanced JavaScript"/>
 <img src="https://img.shields.io/badge/MERN%20Stack-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="MERN Stack" />
 </p>
-
+  <br/>
  <h2>🔃 Frameworks & Libraries 👇</h2>
 <p align="center">
   
