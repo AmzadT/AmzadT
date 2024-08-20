@@ -50,7 +50,7 @@
 - 🌐 Check out my [Portfolio](#) to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
 - ⚡ Fun fact: Still finding...
-- ⚙️ Hobbies: Cricket and Carrom.
+- ⚙️ Hobbies: Cricket, Carrom, and Travelling 
 <br/>
 
  <h2>🛠 Technologies & Tools 👇</h2>
