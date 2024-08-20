@@ -49,8 +49,8 @@
 - 🏡 I'm based in Siwan, Bihar, India.
 - 🌐 Check out my [Portfolio](#) to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
-- ⚡ Fun fact: Still finding...
-- ⚙️ Hobbies: Coding, Carrom, and Search new Technologies.
+- ⚡ Fun fact: Still finding.....
+- ⚙️ Hobbies: Cricket and Carrom.
 <br/>
 
  <h2>🛠 Technologies & Tools 👇</h2>
