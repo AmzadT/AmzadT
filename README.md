@@ -3,12 +3,6 @@
 </div>
 <br/> <br/>
 
-<svg width="800" height="400">
-  <clipPath id="rounded-border">
-    <rect width="100%" height="100%" rx="50" />
-  </clipPath>
-  <image href="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" clip-path="url(#rounded-border)" />
-</svg>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/amzad-hussain-5a8at9006">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
