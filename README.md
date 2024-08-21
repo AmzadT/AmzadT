@@ -1,5 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400px"  style="border-radius: 200px;"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400px"/>
+  <svg width="800" height="400">
+  <clipPath id="rounded-border">
+    <rect width="100%" height="100%" rx="50" />
+  </clipPath>
+  <image href="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="100%" clip-path="url(#rounded-border)" />
+</svg>
+
 </div>
 <br/> <br/>
 <div id="badges" align="center">
