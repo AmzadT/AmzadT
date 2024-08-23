@@ -100,7 +100,7 @@
   <img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" alt="Babel"/>
   <img src="https://img.shields.io/badge/CodePen-FCBE04?style=for-the-badge&logo=codepen&logoColor=black" alt="CodePen"/>
   <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white" alt="Font Awesome"/>
-  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG Icons"/>
+  <img src="https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=svg&logoColor=white" alt="SVG"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Fake%20Store%20API-FF5722?style=for-the-badge&logo=api&logoColor=white" alt="Fake Store API"/>
