@@ -29,7 +29,7 @@
 </div>
 
 <h1 align="center">
-   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Heyy, I'm Here 😎
+    Heyy, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Here 😎
 </h1>
 
 <h3 align="center">👉 Full Stack Software Developer 😉</h3>
