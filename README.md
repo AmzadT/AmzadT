@@ -155,9 +155,9 @@
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
 </div>
+<br/>
 
-
-<h2>🔥 Featured Projects 👇</h2>
+<h2 align="center">🔥 Featured Projects 👇</h2>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
