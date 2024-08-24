@@ -169,8 +169,14 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Horizontal Line"/>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</p>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/amzad-hussain-5a8at9006">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
+  </a>
+</div>
