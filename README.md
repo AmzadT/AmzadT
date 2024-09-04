@@ -29,7 +29,7 @@
 </div>
 
 <h1 align="center">
-    Heyy, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Here 😎
+     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Heyy, There 😎
 </h1>
 
 <h3 align="center">👉 Full Stack Software Developer 😉</h3>
@@ -55,7 +55,7 @@
 - 🏡 I'm based in Siwan, Bihar, India.
 - 🌐 Check out my [Portfolio](#) to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
-- ⚡ Fun fact: Still finding...
+- ⚡ Fun fact: Still finding.....
 - ⚙️ Hobbies: Cricket, Carrom, and Travelling 
 <br/>
 
