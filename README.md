@@ -35,7 +35,7 @@
 <h3 align="center">👉 Full Stack Software Developer 😉</h3>
 
 <p align="center">
-  👉 I'm a passionate Full Stack Web Developer skilled in the MERN Stack, always eager to learn and experiment with new technologies. I focus on writing clean, efficient, and maintainable code...
+  👉 I'm a passionate Full Stack Web Developer skilled in the MERN Stack, always eager to learn and experiment with new technologies. I focus on writing clean, efficient, and maintainable code.....
 </p>
 <br/>
 <div align="center">
