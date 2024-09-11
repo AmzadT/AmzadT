@@ -148,7 +148,7 @@
 <h3 align="center">📊 GitHub Stats 👇</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="80%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="50%" alt="Streak Stats"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="50%"/>
   <br/><br/>
