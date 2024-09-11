@@ -148,11 +148,11 @@
 <h3 align="center">📊 GitHub Stats 👇</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="50%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="80%" alt="Streak Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="70%"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="60%"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
 </div>
