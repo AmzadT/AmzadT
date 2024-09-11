@@ -126,7 +126,7 @@
 <br/>
 
 
-<div align="center">
+<div style="align: center; border-radius: 10px;">
   <table>
     <tr>
       <td align="center" style="list-style-type:circle;">
