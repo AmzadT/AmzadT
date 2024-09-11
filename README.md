@@ -4,7 +4,7 @@
 <br/>
 
 <div id="header" align="center">
-  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000px" height="400px"/>
+  <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" height="400px"/>
 </div>
 <br/> <br/>
 
@@ -148,14 +148,13 @@
 <h3 align="center">📊 GitHub Stats 👇</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="60%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="80%" alt="Streak Stats"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="50%"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="40%"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
-
 </div>
 <br/>
 
