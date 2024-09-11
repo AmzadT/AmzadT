@@ -127,7 +127,7 @@
 <br/>
 
 
-<div align="center">
+<div align="center" width="50%">
   <table>
     <tr>
       <td align="center" style="list-style-type:circle;">
@@ -152,9 +152,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="90%" alt="Streak Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="100%"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="70%"/>
   <br/><br/>
   <img src="https://github-profile-trophy.vercel.app/?username=AmzadT&theme=radical" alt="GitHub Trophies"/>
 </div>
