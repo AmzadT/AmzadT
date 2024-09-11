@@ -5,7 +5,6 @@
 
 <div id="header" align="center">
   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width: 800px; height: 400px;" />
-<!--   <img src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="1000" height="400" /> -->
 </div>
 <br/> <br/>
 
@@ -126,7 +125,7 @@
 <br/>
 
 
-<div style="align: center; border-radius: 10px;">
+<div align="center">
   <table>
     <tr>
       <td align="center" style="list-style-type:circle;">
