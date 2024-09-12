@@ -62,7 +62,7 @@
  <h2>🛠 Technologies & Tools 👇</h2>
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="50%" alt="GitHub Summary"/>
+  <img src="https://camo.githubusercontent.com/6f7b76611449b965092aee7c4bf135e656f4e9416189c0b84020fd9853cd1f93/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f54456e586b637348725034596564436868412f67697068792e676966" width="40%" alt="GitHub Summary"/>
 </div>
 
 
@@ -148,9 +148,9 @@
 <h3 align="center">📊 GitHub Stats 👇</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="80%" alt="Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmzadT&theme=github-dark" width="70%" alt="Streak Stats"/>
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmzadT&layout=compact&theme=vision-friendly-dark" width="60%"/>
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=AmzadT&show_icons=true&theme=radical" width="50%"/>
   <br/><br/>
