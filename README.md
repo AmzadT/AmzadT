@@ -12,10 +12,10 @@
   <a href="https://www.linkedin.com/in/amzad-hussain-5a8at9006/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://amzad-hussain-portfolio-website.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1O4FYCDB52ydt6r5A234ChsihwCIKXjXk/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
@@ -172,22 +172,22 @@ src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff2136
 <h2 align="center">🔥 Featured Projects 👇</h2>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project2-TodoApp-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Project3-DragAndDrop-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
+  <a href="https://shop-sphere-beta.vercel.app/"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
+  <a href="https://mini-ticket-app.vercel.app/"><img src="https://img.shields.io/badge/Project2-TodoApp-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
+  <a href="https://bellavita-organic.vercel.app/"><img src="https://img.shields.io/badge/Project3-DragAndDrop-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
 </p>
 <br/>
 <div align="center">
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/amzad-hussain-5a8at9006">
+  <a href="https://www.linkedin.com/in/amzad-hussain-5a8at9006/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="#">
+  <a href="https://amzad-hussain-portfolio-website.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="#">
+  <a href="https://drive.google.com/file/d/1O4FYCDB52ydt6r5A234ChsihwCIKXjXk/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
