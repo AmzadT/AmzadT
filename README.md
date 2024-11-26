@@ -172,9 +172,9 @@ src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff2136
 <h2 align="center">🔥 Featured Projects 👇</h2>
 
 <p align="center">
-  <a href="https://shop-sphere-beta.vercel.app/"><img src="https://img.shields.io/badge/Project1-Portfolio-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
-  <a href="https://mini-ticket-app.vercel.app/"><img src="https://img.shields.io/badge/Project2-TodoApp-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
-  <a href="https://bellavita-organic.vercel.app/"><img src="https://img.shields.io/badge/Project3-DragAndDrop-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
+  <a href="https://shop-sphere-beta.vercel.app/"><img src="https://img.shields.io/badge/Project1-Shop Sphere-blue?style=for-the-badge&logo=github" alt="Project 1"/></a>
+  <a href="https://mini-ticket-app.vercel.app/"><img src="https://img.shields.io/badge/Project2-Ticket App-blue?style=for-the-badge&logo=github" alt="Project 2"/></a>
+  <a href="https://bellavita-organic.vercel.app/"><img src="https://img.shields.io/badge/Project3-Bellavita.com-blue?style=for-the-badge&logo=github" alt="Project 3"/></a>
 </p>
 <br/>
 <div align="center">
