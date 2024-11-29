@@ -15,7 +15,7 @@
   <a href="https://amzad-hussain-portfolio-website.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1O4FYCDB52ydt6r5A234ChsihwCIKXjXk/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1xlT5hq297uZjxnxVSZTJ0GvMdnyHI5yz/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
@@ -187,7 +187,7 @@ src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff2136
   <a href="https://amzad-hussain-portfolio-website.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-563D7C?style=for-the-badge&logo=website&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://drive.google.com/file/d/1O4FYCDB52ydt6r5A234ChsihwCIKXjXk/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1xlT5hq297uZjxnxVSZTJ0GvMdnyHI5yz/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=resume&logoColor=white" alt="Resume Badge"/>
   </a>
 </div>
