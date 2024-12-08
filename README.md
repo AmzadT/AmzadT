@@ -62,7 +62,7 @@ src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff2136
 - 🏡 I'm based in Siwan, Bihar, India.
 - 🌐 Check out my <a href="https://amzad-hussain-portfolio-website.vercel.app/" target="_blank">Portfolio</a> to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
-- ⚡ Fun fact: Still finding...
+- ⚡ Fun fact: Still finding.....
 - ⚙️ Hobbies: Cricket, Carrom, and Travelling 
 <br/>
 
