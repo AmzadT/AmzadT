@@ -32,7 +32,7 @@
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Heyy, There 😎
 </h1>
 
-<h3 align="center">👉 Full Stack Software Developer 😉</h3>
+<h3 align="center">👉 Full Stack Web Developer 😉</h3>
 
 <p align="center">
   👉 I'm a passionate Full Stack Web Developer skilled with MERN Stack, I am always eager to learn and experiment new things with new technologies. I focus on writing clean, efficient, and maintainable code...
@@ -62,7 +62,7 @@ src="https://camo.githubusercontent.com/792339729babf55dc139ac8189abba7aa4ff2136
 - 🏡 I'm based in Siwan, Bihar, India.
 - 🌐 Check out my <a href="https://amzad-hussain-portfolio-website.vercel.app/" target="_blank">Portfolio</a> to know more about my work.
 - ❤️ I love coding and building projects that solve real-world problems.
-- ⚡ Fun fact: Still finding...
+- ⚡ Fun fact: Still finding.....
 - ⚙️ Hobbies: Cricket, Carrom, and Travelling 
 <br/>
 
